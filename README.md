@@ -1,6 +1,6 @@
 ![all](https://github.com/aubreyomondi/Distributed-Systems-Project/blob/master/images/all.png)
 
-![connected]([connected].png)
+![connected](https://github.com/aubreyomondi/Distributed-Systems-Project/blob/master/images/connected.png)
 
 ![id](https://github.com/aubreyomondi/Distributed-Systems-Project/blob/master/images/id.png)
 
