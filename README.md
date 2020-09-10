@@ -1,3 +1,9 @@
+# Distributed Systems Project
+
+101907 - Omondi Aubrey John
+
+**Assignment - Interprocess Communications in Distributed Environment.pdf**-Project requirements.
+
 ![all](https://github.com/aubreyomondi/Distributed-Systems-Project/blob/master/images/all.png)
 
 ![connected](https://github.com/aubreyomondi/Distributed-Systems-Project/blob/master/images/connected.png)
