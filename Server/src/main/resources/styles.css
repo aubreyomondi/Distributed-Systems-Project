@@ -1,0 +1,32 @@
+.main {
+   -fx-background-color: white;
+}
+.port-label {
+   -fx-text-alignment: center;
+}
+
+.port-reload {
+   -fx-text-fill: #FFFFFF;
+   -fx-background-color: #6C63FF;
+}
+
+.server-button {
+   -fx-background-color: #6C63FF;
+   -fx-background-radius: 5px;
+   -fx-text-fill: #FFFFFF;
+}
+
+.text-area {
+   -fx-font-size: 15;
+   -fx-text-fill: #000000;
+   -fx-display-caret:true;
+   -fx-text-box-border: transparent;
+}
+
+.text-field:focused {
+   -fx-focus-color: transparent;
+}
+
+.text-area .content {
+   -fx-background-color: #FFFFFF;
+}

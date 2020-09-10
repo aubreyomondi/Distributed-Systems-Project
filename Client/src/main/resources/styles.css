@@ -1,0 +1,26 @@
+.main {
+   -fx-background-color: white;
+}
+
+.client-button {
+   -fx-background-color: #6C63FF;
+   -fx-text-fill: #FFFFFF;
+}
+
+.port-label {
+   -fx-text-alignment: center;
+}
+
+.port-reload {
+   -fx-text-fill: #FFFFFF;
+   -fx-background-color: #6C63FF;
+}
+
+.server-button {
+   -fx-background-color: #6C63FF;
+   -fx-text-fill: #FFFFFF;
+}
+
+.text-field {
+   -fx-border-color: white;
+}
